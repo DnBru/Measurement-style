@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data folder
+data/
+
+# VS Code settings
+.vscode/
+
+# Visual Studio folder, if it ever appears
+.vs/
+
+#outputs
+outputs/
